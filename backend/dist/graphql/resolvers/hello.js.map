@@ -1,0 +1,1 @@
+{"version":3,"file":"hello.js","sourceRoot":"","sources":["../../../src/graphql/resolvers/hello.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,MAAM,KAAK,GAAG;IACnB,KAAK,EAAE;QACL,KAAK,EAAE,GAAG,EAAE,CAAC,aAAa;KAC3B;CACF,CAAC"}
